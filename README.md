@@ -1,2 +1,2 @@
 # Apex-Multipart-Upload
-How to Upload Multipart-Form Data Using Apex Trigger to Google Drive or OpenAI Vector Store Simultaneously in Salesforce
+Learn how to upload multipart form-data using an Apex Trigger to Google Drive and OpenAI Vector Store simultaneously in Salesforce.
